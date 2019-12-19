@@ -6,18 +6,6 @@
       "<rootDir>/setupTests.js"
     ]
   },
-  "files": [
-    "__tests__",
-    "assets",
-    "build",
-    "client",
-    "server",
-    ".babelrc",
-    ".gitignore",
-    "README.md",
-    "setupTests.js",
-    "webpack.config.js"
-  ],
   "version": "0.0.1",
   "description": "Gareth Leake's custom React boilerplate",
   "main": "index.js",
