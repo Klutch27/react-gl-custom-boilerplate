@@ -7,7 +7,7 @@
 
 *Scripts:*
 
-`npm run start`: "nodemon server/server.js",
-`npm run build`: "webpack",
-`npm run dev`: "nodemon server/server.js & webpack-dev-server --open --mode development",
-`npm run test`: "jest"
+- `npm run start`: "nodemon server/server.js"
+- `npm run build`: "webpack"
+- `npm run dev`: "nodemon server/server.js & webpack-dev-server --open --mode development"
+- `npm run test`: "jest"
