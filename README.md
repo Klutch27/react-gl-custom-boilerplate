@@ -1,6 +1,6 @@
 **Gareth Leake's custom boilerplate for React Projects**
 
-Feel free to use this in your own projects.
+Feel free to use this in your own projects. MIT License (see `LICENSE` file for details).
 **If you see any issues, please use the Issues tab and submit a New Issue**
 
 This repo contains the following:
