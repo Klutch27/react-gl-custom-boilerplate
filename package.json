@@ -1,0 +1,59 @@
+{
+  "name": "zcruit_challenge",
+  "jest": {
+    "verbose": true,
+    "setupFilesAfterEnv": [
+      "<rootDir>/setupTests.js"
+    ]
+  },
+  "version": "1.0.0",
+  "description": "Welcome! Thank you for participating in our coding challenge.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server/server.js",
+    "build": "webpack",
+    "dev": "nodemon server/server.js & webpack-dev-server --open --mode development",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Klutch27/zcruit_challenge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-jest": "^24.9.0",
+    "css-loader": "^3.2.0",
+    "enzyme": "^3.10.0",
+    "enzyme-adapter-react-16": "^1.15.1",
+    "express": "^4.17.1",
+    "file-loader": "^4.2.0",
+    "jest": "^24.9.0",
+    "nodemon": "^1.19.4",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0",
+    "react-router": "^5.1.2",
+    "react-test-renderer": "^16.12.0",
+    "style-loader": "^1.0.0",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  },
+  "dependencies": {
+    "@babel/core": "^7.7.2",
+    "@babel/plugin-proposal-class-properties": "^7.7.4",
+    "@babel/plugin-transform-regenerator": "^7.7.5",
+    "@babel/preset-env": "^7.7.1",
+    "@babel/preset-react": "^7.7.0",
+    "babel-loader": "^8.0.6",
+    "babel-plugin-syntax-async-functions": "^6.13.0",
+    "core-js": "^3.4.8",
+    "html-webpack-plugin": "^3.2.0",
+    "regenerator-runtime": "^0.13.3",
+    "sinon": "^7.5.0",
+    "webpack-dev-server": "^3.9.0"
+  },
+  "bugs": {
+    "url": "https://github.com/Klutch27/zcruit_challenge/issues"
+  },
+  "homepage": "https://github.com/Klutch27/zcruit_challenge#readme"
+}
