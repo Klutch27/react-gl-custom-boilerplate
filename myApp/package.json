@@ -1,5 +1,5 @@
 {
-  "name": "react-gl-custom-boilerplate-v1",
+  "name": "react-gl-custom-boilerplate-v2",
   "jest": {
     "verbose": true,
     "setupFilesAfterEnv": [
@@ -7,16 +7,7 @@
     ]
   },
   "files": [
-    "__tests__",
-    "assets",
-    "build",
-    "client",
-    "server",
-    ".babelrc",
-    ".gitignore",
-    "README.md",
-    "setupTests.js",
-    "webpack.config.js"
+  "myApp"
   ],
   "version": "0.0.1",
   "description": "Gareth Leake's custom React boilerplate",
