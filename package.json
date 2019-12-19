@@ -1,5 +1,5 @@
 {
-  "name": "zcruit_challenge",
+  "name": "react-gl-custom-boilerplate",
   "jest": {
     "verbose": true,
     "setupFilesAfterEnv": [
@@ -7,7 +7,7 @@
     ]
   },
   "version": "1.0.0",
-  "description": "Welcome! Thank you for participating in our coding challenge.",
+  "description": "Gareth Leake's custom React boilerplate",
   "main": "index.js",
   "scripts": {
     "start": "nodemon server/server.js",
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Klutch27/zcruit_challenge.git"
+    "url": "git+https://github.com/Klutch27/react-gl-custom-boilerplate.git"
   },
   "author": "",
   "license": "ISC",
@@ -53,7 +53,7 @@
     "webpack-dev-server": "^3.9.0"
   },
   "bugs": {
-    "url": "https://github.com/Klutch27/zcruit_challenge/issues"
+    "url": "https://github.com/Klutch27/react-gl-custom-boilerplate/issues"
   },
-  "homepage": "https://github.com/Klutch27/zcruit_challenge#readme"
+  "homepage": "https://github.com/Klutch27/react-gl-custom-boilerplate#readme"
 }
