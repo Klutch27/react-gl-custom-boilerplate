@@ -11,7 +11,7 @@ module.exports = {
     },
     plugins: [new HtmlWebpackPlugin({
       filename: 'index.html',
-      title: 'Gareth Leake -- ZCruit Challenge',
+      title: 'This is a title',
       template: './assets/index.html'
     })],
     module: {
